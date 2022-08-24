@@ -1,0 +1,33 @@
+CitiBikes Analysis:
+
+Welcome Stakeholders! I've put together some information to give you some insight into how well the CitiBikes Program is working in NYC! This analysis looks at how the program has grown from Jan 2020 to June 2020, even among all of the new challenges that the COVID-19 Pandemic entails.
+
+Demographics:
+
+* To start off, I have compiled some demographic information about our rider base and how it has grown over six months. The top figures show the age distribution of the riders for Jan and June. While the shape of the distribution is approximately the same, pay close attention to the scale on the left side, which shows that the rider base has increased across all ranges, and has been especially popular with those between the ages of 25 and 35.
+
+* While we did a great job increasing use for the 25-35 age range, we did not see much organic growth for the 45+ age range. This may be due to the effects of the pandemic and older individuals not wanting to travel outside, but it may be an area to target for future marketing.
+
+* When looking at the gender distribution for this time period, we notice a large growth in use of the program among females, almost doubling in value. We did not see nearly as dramatic of an increase with males, even when looking at the raw number of male riders. 
+
+Subscriber Base:
+
+* Flipping over to the next page, we take a look at our rider base with respect to their type of membership. The top two line graphs show the age distribution of riders and whether they use a single ride ('Customer') or have a subscription plan ('Subscriber') between Jan and June. Similarly to our age distribution graph before, we notice an increase in use of the bikes overall, but it was surprising to see such a large increase in customer use among 20-35 year olds. This might show that more individuals are noticing these bikes around the city and purchasing single rides as useful means of transport.
+
+* We can also take a look at the Trip Duration versus the Number of Trips that each customer type takes on average. It is interesting to note, that while subscribers take more trips overall compared to customers, they also tend to use these bikes for shorter rides compared to the customers. When a customer purchases a ride for a day, they tend to use the bike for a much longer period of time, which may indicate that it is being used by the tourist population into the city, whereas the subscriber base uses the plan for many short trips, indicating chronic and daily use with the bikes being an integral part of the transportation around the city.
+
+
+Starting and Ending Locations:
+
+* It is interesting to note these trip start and end locations in comparison to how far people are traveling. Looking at the next page, we can see several maps, side-by-side, to compare where people are beginning and ending their journeys and how it has changed from January to June. The size of the bubble correspond to stations where riders have had longer average travel times. When looking at starting stations, we noticed that riders who are using the bikes in the outer edges of the city in the Bronx, Queens, and Brooklyn. These riders are likely traveling into the heart of the city and its neighborhoods and using the bikes as meaningful means of transportation. We don't see much of a difference when looking at starting stations in June, but do notice some highlighted areas around Manhattan that riders may be utilizing as an option for sightseeing.
+
+* When looking over at the Ending Stations, we notice similar popular stations around neighborhoods around the city, but also pick up on a few stations in midtown Manhattan and around Central Park, further reinforcing the idea that riders are starting to use the bikes to sightsee around the city. Another interesting point to note: there are some moderately popular stations on the New Jersey side of the Hudson River, where riders are finishing their journeys. This may indicate the usefulness of our bikes to commuters traveling into the city from NJ as an alternative to the bus or metro. COVID-19 may have caused some of the riders to be skeptical of mass transportation, and our bikes provide an optimal opportunity for transport while maintaining social distancing.
+
+
+City Official Request:
+
+* A map was generated that shows the most popular start and end locations that customers seem to be using. The blue circles represent the most popular bike pickup location, with the bigger circles representing more popular stations. Similarly, the red circles represent the same for drop off locations.
+
+* We can immediately notice that the Manhattan area is the most popular overall, both for starting and ending trips, which is likely due to the high foot traffic in the area. It is worth noting, that there are also some significant "trip ending" or drop-off locations located along the Hudson River in Manhattan and along Central Park, likely indicating that CitiBikes may be a popular travel tool for people to visit these scenic locations!
+
+
